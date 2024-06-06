@@ -14,6 +14,16 @@ module.exports = {
       fontFamily: {
         'Raleway': 'Raleway',
         'Open-Sans': 'Open Sans'
+      },
+      backgroundImage: {
+        'Crv-Desk': "url('/images/bg-curve-desktop.svg')",
+        'Crv-Mob': "url('/images/bg-curve-mobile.svg')"
+      },
+      backgroundSize: {
+        '100-100': '100% 100%'
+      },
+      boxShadow: {
+        'boxShadow': 'rgba(149, 157, 165, 0.2) 0px 8px 24px;'
       }
     },
   },
